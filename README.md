@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kahhorjonov
 - 👀 I’m interested in Web-Developing
-- 🌱 I’m currently learning React JS
+- 🌱 I’m already learnt React JS
+- 🌱 I’m currently learning Node JS
 - 📫 How to reach me https://t.me/@kahhorjonov
