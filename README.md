@@ -1,11 +1,4 @@
   <a align='center' href="https://app.daily.dev/kahhorjonov"><img src="https://api.daily.dev/devcards/fab31c0307b443418384ed983e935601.png?r=2ib" width="400" alt="kahhorjonov's Dev Card"/></a>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kahhorjonov.kahhorjonov&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
