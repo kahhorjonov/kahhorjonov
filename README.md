@@ -1,13 +1,8 @@
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👨🏻‍💻  About Me</h3>
 
 ###
 
-<p align="left">Kahhorjonov Akbarjon. 23 y.o.<br><br>- 🔭 I’m working as frontend (sometimes as backend) developer<br>- 📚 I'm currently learning Next js<br>- ⚡ In my free time I play games and watch anime or learn new technologies</p>
+<p align="left">Kahhorjonov Akbarjon. 23 y.o.<br><br>- 🔭 I’m working as frontend (sometimes as backend) software engineer <br>- 📚 I'm currently learning Next js<br>
 
 ###
 
