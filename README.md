@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Kahhorjonov Akbarjon. 23 y.o.<br><br>- 🔭 I’m working as frontend (sometimes as backend) software engineer <br>- 📚 I'm currently learning Next js<br>
+<p align="left">Kahhorjonov Akbarjon. 23 y.o.<br><br>- 🔭 I’m working as a frontend (sometimes as a backend) software engineer <br>- 📚 I'm currently learning Next js<br>
 
 ###
 
