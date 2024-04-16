@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Kahhorjonov Akbarjon. 23 y.o.</p>
+<p align="left">Kahhorjonov Akbarjon</p>
 
 ###
 
