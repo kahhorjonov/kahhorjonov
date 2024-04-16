@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Kahhorjonov Akbarjon</p>
+<p align="left">Full Stack Software Engineer</p>
 
 ###
 
